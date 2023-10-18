@@ -1,4 +1,4 @@
-package com.goca.project_spring_desktop;
+package com.goca.project_springdesktop.test;
 
 /**
  * Hello world!
